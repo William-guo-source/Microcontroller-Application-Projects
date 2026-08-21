@@ -1,4 +1,4 @@
-# 💻 AT89S52 Microcontroller Applications (微算機原理專案集)
+# 💻 AT89S52 Microcontroller Applications 
 
 本儲存庫收錄了基於 **Atmel AT89S52 (8051 架構)** 微控制器與 **C 語言** 開發的進階嵌入式系統專案。專案內容涵蓋了多種硬體周邊控制、中斷系統 (Interrupts) 的安全架構設計，以及跨設備的非同步通訊 (UART) 實作。
 
